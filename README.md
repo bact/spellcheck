@@ -7,6 +7,9 @@ Goal:
 - Good enough for search (where other edit distance and proximity search can be applied to improve usability)
 - Fast enough to process large amount of text (corpus of 1 GB text in couple minutes)
 
+Non-goal (yet):
+- Good enough for linguistic analysis
+
 ## Some links on spell checking
 
 Basics:
