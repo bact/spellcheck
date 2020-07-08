@@ -40,3 +40,5 @@ Competition:
 - Parallel Spell-Checking Algorithm Based on Yahoo! N-Grams Dataset https://arxiv.org/abs/1204.0184
 - An unsupervised and customizable misspelling generator for mining noisy health-related text sources https://arxiv.org/abs/1806.00910
 - Keyword Typo Generator http://tools.seobook.com/spelling/keywords-typos.cgi 
+
+- TCC + TCCT https://books.google.ie/books?id=pkGpLwH70w0C&pg=PA223&lpg=PA223&dq=word+segmentation+ngram+tcc&source=bl&ots=trQtTk9s4d&sig=ACfU3U1Ht4RWtx3dtwpmF-p3F4163r-acw&hl=en&sa=X&ved=2ahUKEwjE05m5v7jqAhVRtHEKHe3AAm4Q6AEwAXoECAsQAQ#v=onepage&q=word%20segmentation%20ngram%20tcc&f=false 
