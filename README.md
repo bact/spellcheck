@@ -37,8 +37,15 @@ For search/query application:
 Competition:
 - A Basic Spell Checker https://www.hackerrank.com/challenges/basic-spell-checker/problem
 
+N-Grams
 - Parallel Spell-Checking Algorithm Based on Yahoo! N-Grams Dataset https://arxiv.org/abs/1204.0184
+- Web News N-gram https://blog.gdeltproject.org/announcing-the-web-ngram-character-ngram-datasets/
+- Integrating Dictionary and Web N-grams for Chinese Spell Checking https://www.aclweb.org/anthology/O13-5002.pdf
+-  Thai Word Segmentation based-on GLR Parsing Technique and Word N-gram Model https://thailang.nectec.or.th/downloadcenter/index7787.html?option=com_docman&task=doc_details&gid=17&Itemid=61
+
+Misspelling generator
 - An unsupervised and customizable misspelling generator for mining noisy health-related text sources https://arxiv.org/abs/1806.00910
 - Keyword Typo Generator http://tools.seobook.com/spelling/keywords-typos.cgi 
+
 
 - TCC + TCCT https://books.google.ie/books?id=pkGpLwH70w0C&pg=PA223&lpg=PA223&dq=word+segmentation+ngram+tcc&source=bl&ots=trQtTk9s4d&sig=ACfU3U1Ht4RWtx3dtwpmF-p3F4163r-acw&hl=en&sa=X&ved=2ahUKEwjE05m5v7jqAhVRtHEKHe3AAm4Q6AEwAXoECAsQAQ#v=onepage&q=word%20segmentation%20ngram%20tcc&f=false 
