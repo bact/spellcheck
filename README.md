@@ -53,3 +53,8 @@ Misspelling generator
 - Adapting Vietnamese Word Segmentation for Microblogs-Style Data https://www.researchgate.net/publication/283502832_Adapting_Vietnamese_Word_Segmentation_for_Microblogs-Style_Data
 - A Fast and Accurate Vietnamese Word Segmenter https://www.aclweb.org/anthology/L18-1410.pdf
 
+
+https://github.com/wolfgarbe/WordSegmentationTM
+
+https://github.com/wolfgarbe/SymSpell
+
