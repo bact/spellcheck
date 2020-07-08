@@ -49,3 +49,7 @@ Misspelling generator
 
 
 - TCC + TCCT https://books.google.ie/books?id=pkGpLwH70w0C&pg=PA223&lpg=PA223&dq=word+segmentation+ngram+tcc&source=bl&ots=trQtTk9s4d&sig=ACfU3U1Ht4RWtx3dtwpmF-p3F4163r-acw&hl=en&sa=X&ved=2ahUKEwjE05m5v7jqAhVRtHEKHe3AAm4Q6AEwAXoECAsQAQ#v=onepage&q=word%20segmentation%20ngram%20tcc&f=false 
+
+- Adapting Vietnamese Word Segmentation for Microblogs-Style Data https://www.researchgate.net/publication/283502832_Adapting_Vietnamese_Word_Segmentation_for_Microblogs-Style_Data
+- A Fast and Accurate Vietnamese Word Segmenter https://www.aclweb.org/anthology/L18-1410.pdf
+
