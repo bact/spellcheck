@@ -36,3 +36,7 @@ For search/query application:
 
 Competition:
 - A Basic Spell Checker https://www.hackerrank.com/challenges/basic-spell-checker/problem
+
+- Parallel Spell-Checking Algorithm Based on Yahoo! N-Grams Dataset https://arxiv.org/abs/1204.0184
+- An unsupervised and customizable misspelling generator for mining noisy health-related text sources https://arxiv.org/abs/1806.00910
+- Keyword Typo Generator http://tools.seobook.com/spelling/keywords-typos.cgi 
