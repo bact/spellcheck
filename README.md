@@ -20,6 +20,9 @@ Basics:
 Discussions:
 - What algorithm gives suggestions in a spell checker? https://stackoverflow.com/questions/2294915/what-algorithm-gives-suggestions-in-a-spell-checker
 
+Thai-specific:
+- Thai Spelling Correction and Word Normalizationon Social Text Using a Two-Stage Pipeline With Neural Contextual Attention https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9145483
+
 More techniques:
 - Build a spell-checker with word2vec data (with python) https://medium.com/@thomasdecaux/build-a-spell-checker-with-word2vec-data-with-python-5438a9343afd 
 - 1000x Faster Spelling Correction algorithm (2012) https://medium.com/@wolfgarbe/1000x-faster-spelling-correction-algorithm-2012-8701fcd87a5f
