@@ -22,6 +22,7 @@ Discussions:
 
 Thai-specific:
 - Thai Spelling Correction and Word Normalizationon Social Text Using a Two-Stage Pipeline With Neural Contextual Attention https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9145483
+- Spell Checker for Thai Document (post-process for OCR) https://ieeexplore.ieee.org/document/4085130
 
 More techniques:
 - Build a spell-checker with word2vec data (with python) https://medium.com/@thomasdecaux/build-a-spell-checker-with-word2vec-data-with-python-5438a9343afd 
