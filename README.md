@@ -61,3 +61,5 @@ https://towardsdatascience.com/query-segmentation-and-spelling-correction-483173
 https://github.com/wolfgarbe/WordSegmentationTM
 https://github.com/wolfgarbe/SymSpell
 
+## OCR
+- https://source.opennews.org/articles/so-many-ocr-options/
