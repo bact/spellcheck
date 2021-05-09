@@ -72,6 +72,7 @@ Segmentation
 - Arndt, E. J., & Foorman, B. R. (2010). Second Graders as Spellers: What Types of Errors Are They Making? Assessment for Effective Intervention, 36(1), 57–67. https://doi.org/10.1177/1534508410380135
 - Bassil, Y. (2012). Parallel Spell-Checking Algorithm Based on Yahoo! N-Grams Dataset. ArXiv:1204.0184 [Cs]. http://arxiv.org/abs/1204.0184
 - Best AI Writing Assistant Software in 2021. (n.d.). G2. Retrieved 1 April 2021, from https://www.g2.com/categories/ai-writing-assistant
+- Bestgen, Y., & Granger, S. (2011). Categorizing spelling errors to assess L2 writing. International Journal of Continuing Engineering Education and Life-Long Learning, 21, 235–252. https://doi.org/10.1504/IJCEELL.2011.040201
 - Blank, D. (n.d.). Spelling Checking Algorithms. 20.
 - Clough, P., Gaizauskas, R., & Piao, S. L. (2002, May). Building and annotating a corpus for the study of journalistic text reuse. Proceedings of the Third International Conference on Language Resources and Evaluation (LREC’02). LREC 2002, Las Palmas, Canary Islands - Spain. http://www.lrec-conf.org/proceedings/lrec2002/pdf/218.pdf
 - Crowell, J., Zeng, Q., Ngo, L., & Lacroix, E.-M. (2004). A Frequency-based Technique to Improve the Spelling Suggestion Rank in Medical Queries. Journal of the American Medical Informatics Association : JAMIA, 11(3), 179–185. https://doi.org/10.1197/jamia.M1474
